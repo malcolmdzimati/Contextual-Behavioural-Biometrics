@@ -1,0 +1,73 @@
+ Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+lib/
+lib64/
+parts/
+var/
+sdist/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Environment variables
+.env
+.venv/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Python virtual environments
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+# Coverage reports
+htmlcov/
+coverage.xml
+.coverage
+
+# Test results
+nosetests.xml
+test-results/
+*.log
+
+# Pytest cache
+.cache
+
+# MyPy
+.mypy_cache/
+
+# Sphinx documentation
+docs/_build/
+
+# Pyre type checker
+.pyre/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Data Sets
+DataSets/
+
+# Online banking Simulator
+OnlineBankingSimulator/
