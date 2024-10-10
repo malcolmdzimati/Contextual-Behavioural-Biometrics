@@ -34,6 +34,7 @@ sdist/
 
 # Python virtual environments
 .venv/
+.venv.3.9.6/
 venv/
 ENV/
 env/
